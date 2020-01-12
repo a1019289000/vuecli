@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>{{test()}}</p>
     {{uu()}}
+    ha
     {{name}}
   </div>
 </template>
